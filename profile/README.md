@@ -7,6 +7,10 @@
 Делаем сайты и ИИ-продукты для бизнеса.
 </p>
 
+<p align="center">
+<a href="https://www.instagram.com/oveon_dev">Instagram</a> · <a href="https://www.threads.net/@oveon_dev">Threads</a>
+</p>
+
 ---
 
 ### What we do
@@ -25,6 +29,8 @@
 
 ### Contact
 
-Instagram · Threads · LinkedIn — links coming soon
+- Instagram — [@oveon_dev](https://www.instagram.com/oveon_dev)
+- Threads — [@oveon_dev](https://www.threads.net/@oveon_dev)
+- Email — oveondevelopment@gmail.com
 
 <sub>Pavlodar, Kazakhstan</sub>
