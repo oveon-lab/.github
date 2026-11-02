@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="oveon-logo.png" alt="Oveon" width="420">
+<img src="oveon-logo.png" alt="Oveon" width="420">
 </p>
 
 <p align="center">
-  <b>We build websites and AI products for businesses.</b><br>
-  Делаем сайты и ИИ-продукты для бизнеса.
+<b>We build websites and AI products for businesses.</b><br>
+Делаем сайты и ИИ-продукты для бизнеса.
 </p>
 
 ---
@@ -19,9 +19,9 @@
 
 | | |
 |---|---|
-| **Emil** | Design and frontend · [@lghttttt](https://github.com/lghttttt) |
-| **Alevtina** | — |
-| **Olajide** | — |
+| **Emil** | Design — interfaces, brand and content · [@lghttttt](https://github.com/lghttttt) |
+| **Alevtina** | Growth — sales, pitches and partnerships |
+| **Olajide** | Development — backend, systems and security · [@jidenyms](https://github.com/jidenyms) |
 
 ### Contact
 
