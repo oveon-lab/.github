@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/oveon_dev">Instagram</a> · <a href="https://www.threads.net/@oveon_dev">Threads</a>
+<a href="https://www.instagram.com/oveon.lab">Instagram</a> · <a href="https://www.threads.net/@oveon.lab">Threads</a>
 </p>
 
 ---
@@ -29,8 +29,8 @@
 
 ### Contact
 
-- Instagram — [@oveon_dev](https://www.instagram.com/oveon_dev)
-- Threads — [@oveon_dev](https://www.threads.net/@oveon_dev)
+- Instagram — [@oveon.lab](https://www.instagram.com/oveon.lab)
+- Threads — [@oveon.lab](https://www.threads.net/@oveon.lab)
 - Email — oveondevelopment@gmail.com
 
 <sub>Pavlodar, Kazakhstan</sub>
